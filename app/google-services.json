@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "406040516327",
+    "project_id": "tugas-pertemuan-13-p3b",
+    "storage_bucket": "tugas-pertemuan-13-p3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:406040516327:android:af458045be6485b0e9f442",
+        "android_client_info": {
+          "package_name": "com.example.tugaspertemuan13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkSyL5wP4zN74IWBs1zTkF_LSqv8weOWE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
